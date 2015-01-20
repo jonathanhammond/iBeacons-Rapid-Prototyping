@@ -6,6 +6,8 @@ A design tool for builting UI's for iBeacons
 
 This is a rapid prototype for designing UI's on mobile devices for outdoor or indoor interactions. Focusing on position rather than user interations.
 
+Video example https://vimeo.com/117304978
+
 ![screenshot](https://raw.githubusercontent.com/justaddmusic/iBeacons-Rapid-Prototyping/master/ibeacon.jpg)
 
 
