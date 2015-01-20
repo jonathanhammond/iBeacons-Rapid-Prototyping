@@ -4,7 +4,7 @@ www.justaddmusicmedia.com
 
 A design tool for builting UI's for iBeacons
 
-This project was hijacked by a large car company leaving me unpaid for my UX documentation and UI designs. Que Sera, Sera here is the open source UI prototypes. You can visit the source code here.
+This is a rapid prototype for designing UI's on mobile devices for outdoor or indoor interactions. Focusing on position rather than user interations.
 
 ![screenshot](https://raw.githubusercontent.com/justaddmusic/iBeacons-Rapid-Prototyping/master/ibeacon.jpg)
 
